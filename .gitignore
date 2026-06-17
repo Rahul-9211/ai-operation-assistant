@@ -2,3 +2,15 @@
 venv/
 __pycache__/
 *.pyc
+
+
+venv/
+.env
+
+__pycache__/
+*.pyc
+
+.idea/
+.vscode/
+
+data/*.pdf
